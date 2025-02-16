@@ -1,0 +1,1 @@
+# qzwiz-goit-algo-hw-05
